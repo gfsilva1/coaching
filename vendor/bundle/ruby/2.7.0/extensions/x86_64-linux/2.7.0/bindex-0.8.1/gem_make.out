@@ -1,0 +1,15 @@
+current directory: /home/gfsilva/code/gfsilva1/projects/coaching/rails-stupid-coaching/vendor/bundle/ruby/2.7.0/gems/bindex-0.8.1/ext/skiptrace
+/home/gfsilva/.rvm/rubies/ruby-2.7.3/bin/ruby -I /home/gfsilva/.rvm/rubies/ruby-2.7.3/lib/ruby/site_ruby/2.7.0 -r ./siteconf20211030-8193-jyg0hc.rb extconf.rb
+creating Makefile
+
+current directory: /home/gfsilva/code/gfsilva1/projects/coaching/rails-stupid-coaching/vendor/bundle/ruby/2.7.0/gems/bindex-0.8.1/ext/skiptrace
+make DESTDIR\= clean
+
+current directory: /home/gfsilva/code/gfsilva1/projects/coaching/rails-stupid-coaching/vendor/bundle/ruby/2.7.0/gems/bindex-0.8.1/ext/skiptrace
+make DESTDIR\=
+compiling cruby.c
+linking shared-object skiptrace/internal/cruby.so
+
+current directory: /home/gfsilva/code/gfsilva1/projects/coaching/rails-stupid-coaching/vendor/bundle/ruby/2.7.0/gems/bindex-0.8.1/ext/skiptrace
+make DESTDIR\= install
+/usr/bin/install -m 0755 cruby.so ./.gem.20211030-8193-iqyt11/skiptrace/internal
